@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Backend
+patient/target/
+*.log
+
+# Frontend
+patient-frontend/node_modules/
+patient-frontend/dist/
+patient-frontend/build/
+
+# Env files
+.env
+patient/.env
+patient-frontend/.env
