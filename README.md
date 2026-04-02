@@ -55,8 +55,8 @@ cd patient
 
 ### 3. Run Frontend
 
-cd patient-frontend
-npm install
-npm run dev
+- cd patient-frontend
+- npm install
+- npm run dev
 
 ---
